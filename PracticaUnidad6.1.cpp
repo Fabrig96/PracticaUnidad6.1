@@ -5,7 +5,6 @@
 
 int main()
 {
-	
 	sf::RenderWindow window(sf::VideoMode(800, 600), "Fast & Furious");
 	
 	sf::Vector2f posicion(0.0f, 200.0f);
